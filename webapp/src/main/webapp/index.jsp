@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Already have an icon account? <a href="#">Sign in</a>.</p>
   </div>
 
    <h1> Thankyou Everyone!!, Happy Learning Today DevOps </h1>
