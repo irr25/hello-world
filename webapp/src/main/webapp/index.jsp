@@ -31,5 +31,5 @@
     <p>Already have an icon account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou,everyone all Happy Learniing Today DevOps </h1>  
+   <h1> Thankyou,everyone all Happy Learning Today DevOps one last step </h1>  
 </form>
